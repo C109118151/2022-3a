@@ -53,5 +53,21 @@ gantt
 ```
 
 
+***
+# PERT/CPM
+![PERT/CPM](PERT.jpg "PERT")
+***
+
+# 關鍵路徑
+---
+![CPM_img 圖](關鍵路徑.jpg)
+
+
+
+
+
+
+
+
 
 
